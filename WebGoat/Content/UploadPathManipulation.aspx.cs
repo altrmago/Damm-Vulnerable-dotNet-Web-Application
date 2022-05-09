@@ -24,7 +24,8 @@ namespace OWASP.WebGoat.NET
                     string filename = Path.GetFileName(FileUpload1.FileName);
                     FileUpload1.SaveAs(Server.MapPath("~/WebGoatCoins/uploads/") + filename);
                     labelUpload.Text = "<div class='success' style='text-align:center'>The file " + FileUpload1.FileName + " has been saved in to the WebGoatCoins/uploads directory</div>";
-                    
+                    //tresteste;
+                    //teste/te;
                 }
                 catch (Exception ex)
                 {

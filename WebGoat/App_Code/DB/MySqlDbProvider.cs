@@ -202,7 +202,7 @@ namespace OWASP.WebGoat.NET.App_Code.DB
                 {
                     string sql = "select email from CustomerLogin where customerNumber = " + customerNumber;
                     MySqlCommand command = new MySqlCommand(sql, connection);
-                    output = command.ExecuteScalar().ToString();
+                                       output = command.ExecuteScalar().ToString();
                 } 
             }
             catch (Exception ex)

@@ -3,7 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="b72100f6-cdf2-4fad-82c1-e043ea0a4503" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Damm-Vulnerable-dotNet-Web-Application/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Damm-Vulnerable-dotNet-Web-Application/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/WebGoat.NET/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/WebGoat.NET/v16/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup1/WebGoat.NET.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Backup1/WebGoat.NET.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup1/WebGoat/WebGoat.NET.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backup1/WebGoat/WebGoat.NET.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backup1/WebGoat/WebGoat.NET.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/Backup1/WebGoat/WebGoat.NET.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +30,21 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebGoat" />
     <property name="settings.editor.selected.configurable" value="com.checkmarx.cxviewer.ui.CxUrlAndCredentialsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,6 +60,7 @@
       <workItem from="1634152959078" duration="4000" />
       <workItem from="1634153447873" duration="53000" />
       <workItem from="1634153511166" duration="6000" />
+      <workItem from="1650463440703" duration="81000" />
     </task>
     <servers />
   </component>
