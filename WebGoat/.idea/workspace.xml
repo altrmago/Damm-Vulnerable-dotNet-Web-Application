@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23a02111-c709-4430-9161-5df2052d2179" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/Damm-Vulnerable-dotNet-Web-Application/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/Damm-Vulnerable-dotNet-Web-Application/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/VSWorkspaceState.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vs/WebGoat.NET/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../.vs/WebGoat.NET/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup1/WebGoat.NET.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup1/WebGoat.NET.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup1/WebGoat/WebGoat.NET.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup1/WebGoat/WebGoat.NET.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup1/WebGoat/WebGoat.NET.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup1/WebGoat/WebGoat.NET.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README" beforeDir="false" afterPath="$PROJECT_DIR$/../README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Code/DB/MySqlDbProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/App_Code/DB/MySqlDbProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App_Code/DB/SqliteDbProvider.cs" beforeDir="false" afterPath="$PROJECT_DIR$/App_Code/DB/SqliteDbProvider.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/UploadPathManipulation.aspx.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Content/UploadPathManipulation.aspx.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2846U4VgMvwEfpbGXtdyPZWhOGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Checkmarx.SelectedBranch" value="master" />
+    <property name="Checkmarx.SelectedProject" value="msant262/WebGoat.NET" />
+    <property name="Checkmarx.SelectedScan" value="2022/04/14 09:20:50  227783e0-d076-4491-ae29-82b2e1c58906 (latest)" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.ast" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23a02111-c709-4430-9161-5df2052d2179" name="Default Changelist" comment="" />
+      <created>1650463522757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650463522757</updated>
+      <workItem from="1650463523974" duration="861000" />
+      <workItem from="1650464976793" duration="880000" />
+      <workItem from="1651173747464" duration="481000" />
+      <workItem from="1651522516525" duration="878000" />
+      <workItem from="1651689631073" duration="748000" />
+      <workItem from="1651782286250" duration="800000" />
+      <workItem from="1651844944208" duration="30000" />
+      <workItem from="1651847079041" duration="245000" />
+      <workItem from="1651858313729" duration="736000" />
+      <workItem from="1652061693180" duration="88000" />
+      <workItem from="1652061821473" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
